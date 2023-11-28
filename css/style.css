@@ -1,0 +1,28 @@
+.one{
+    width: 80px;
+    height: 55px;
+    background: yellowgreen;
+    color: white;
+
+}
+.two{
+    width: 120px;
+    height: 49px;
+    background: royalblue;
+    color: white;
+
+}
+.three{
+    width: 100px;
+    height: 35px;
+    background: indianred;
+    color: white;
+
+}
+.btn{
+    font-size: 22px;
+}
+button{
+    border: none;
+    cursor: pointer;
+}
